@@ -1,0 +1,31 @@
+.Credit_Card{
+  display: flex;
+  justify-content:space-around;
+}
+.output_Card{
+  width:550px;
+  height: auto;
+  /* background-color: blueviolet; */
+  border:solid black 4px;
+  border-radius: 9px;
+  display: flex;
+  justify-content: space-between;
+  background : url("https://www.gstatic.com/earth/social/00_generic_facebook-001.jpg");
+  background-size: cover;
+  color: white;
+
+}
+.logo{
+  width: 260px;
+  height: 93px;
+  align-self: flex-end;
+}
+
+.Credit_Card{
+}
+.input_Card{
+  display: flex;
+  flex-direction: column;
+  margin: 80px 0px 0px;
+}
+
